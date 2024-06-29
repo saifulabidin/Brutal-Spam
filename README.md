@@ -19,7 +19,7 @@ pkg install python-pip
 pkg install python2 
 pkg install git
 rm -rf Brutal-Spam
-git clone https://github.com/Dra-ID/Brutal-Spam
+git clone https://github.com/saifulabidin/Brutal-Spam
 cd Brutal-Spam
 ls
 pip3 install inquirer 
