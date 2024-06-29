@@ -5,6 +5,7 @@ pip install rich
 pip install colorama
 pip install pyfiglet
 pip install tqdm
+pip install sh
 pip install inquirer
 
 sleep 3
