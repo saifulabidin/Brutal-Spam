@@ -7,7 +7,7 @@ pip install pyfiglet
 pip install tqdm
 pip install sh
 pip install inquirer
-
+pip install fake-useragent
 sleep 3
 
 python run.py
